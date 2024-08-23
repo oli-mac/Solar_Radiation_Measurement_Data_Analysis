@@ -1,34 +1,10 @@
-Certainly! Here's a sample `README.md` file tailored for your project:
 
-```markdown
+
+
 # Solar Radiation Measurement Data Analysis
-
 ## Project Overview
 
 This project is focused on analyzing Solar Radiation Measurement Data, including various environmental parameters such as solar radiation, temperature, humidity, wind speed, and more. The analysis is carried out in Python, with a focus on Exploratory Data Analysis (EDA) and statistical insights to understand the data's behavior and patterns.
-
-## Project Structure
-
-```
-├── .vscode/
-│   └── settings.json              # VS Code settings (if using VS Code)
-├── .github/
-│   └── workflows/
-│       └── unittests.yml          # CI/CD configuration for GitHub Actions
-├── .gitignore                     # Specifies files to ignore in the repository
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project overview (this file)
-├── src/                           # Source code directory
-├── notebooks/
-│   ├── __init__.py
-│   └── analysis.ipynb             # Jupyter notebooks for EDA and analysis
-├── tests/
-│   ├── __init__.py
-│   └── test_analysis.py           # Unit tests for analysis scripts
-└── scripts/
-    ├── __init__.py
-    └── data_cleaning.py           # Scripts for data cleaning and preprocessing
-```
 
 ## Getting Started
 
